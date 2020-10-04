@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          LOL Erexz Coijn
+          Link to Test
         </a>
       </header>
     </div>
